@@ -84,3 +84,5 @@ docs/_build/
 
 #Database
 *.db
+uploads/*
+*.sqlite3
